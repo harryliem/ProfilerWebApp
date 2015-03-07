@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Main Navigation",
+    "heading": "true",
+    "translate": "sidebar.heading.HEADER"
+  },
+  {
+    "text": "Data Analysis",
+    "sref": "#",
+    "icon": "icon-grid",
+    "submenu": [
+        { "text": "Executive Summary - UniScores Table", "sref": "app.uniscores-table" },
+      {"text": "Students - All Results Table",       "sref": "app.dashboard_v2" },
+      {"text": "Courses - All Resuts Table",       "sref": "app.dashboard_v3" },
+      {"text": "Courses - All Resuts Table",       "sref": "app.dashboard_v3" },
+      {"text": "Courses - Average Scaled Mark per Rank",       "sref": "app.dashboard_v3" },
+      {"text": "Courses - Scaling",       "sref": "app.dashboard_v3" },
+      {"text": "Student - SC Averages / Year 10 Scores",       "sref": "app.dashboard_v3" }
+    ],
+    "translate": "sidebar.nav.DATA_ANALYSIS"
+  },
+  {
+    "text": "Chart Analyis",
+    "sref": "#",
+    "icon": "icon-bar-chart",
+    "submenu": [
+      {"text": "Executive Summary - UniScores",       "sref": "app.uniscores-chart"},
+      {"text": "Executive Summary - Mu,ber of Units Value Added",       "sref": "app.dashboard"},
+      {"text": "Executive Summary - Grand School Average",       "sref": "app.dashboard"},
+      {"text": "Executive Summary - Course Candidatures",       "sref": "app.dashboard"},
+      {"text": "Executive Summary - HSC Subject Areas",       "sref": "app.dashboard"},
+      {"text": "Executive Summary - Value Added",       "sref": "app.dashboard"},
+      {"text": "Executive Summary - Course Comparative Ranks",       "sref": "app.dashboard"},
+      {"text": "Executive Summary - Band Analysis and % Band 6",       "sref": "app.dashboard"},
+      {"text": "Subject Area - Trend Analysis",       "sref": "app.dashboard"},
+      {"text": "Subject Area - Value Added",       "sref": "app.dashboard"},
+      {"text": "Subject Area - HSC Results",       "sref": "app.dashboard"},
+      {"text": "Course - Trend Analysis",       "sref": "app.dashboard"},
+      {"text": "Course - Value Added",       "sref": "app.dashboard"},
+      {"text": "Course - Ranked Order (n)",       "sref": "app.dashboard"},
+      {"text": "Course - Ranked Order (%)",       "sref": "app.dashboard"},
+      {"text": "Student - Performance",       "sref": "app.dashboard"},
+      {"text": "Student - Achievement",       "sref": "app.dashboard"},
+      {"text": "Predicted HSC Marks V Actual HSC Marks",       "sref": "app.dashboard"}
+    ],
+    "translate": "sidebar.nav.CHART_ANALYSIS"
+  },
+  {
+    "text": "Settings",
+    "sref": "#",
+    "icon": "icon-settings",
+    "submenu": [
+      {"text": "User Maintenance",       "sref": "app.dashboard"},
+      {"text": "Change Password",       "sref": "app.dashboard_v2" }
+    ],
+    "translate": "sidebar.nav.SETTINGS"
+  }
+]

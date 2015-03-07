@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2f8062a-3f4a-447c-9979-5b98eec98859" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/user/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fontawesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/Sorting icons.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/weather-icons/font/WeatherIcons-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/back_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/back_enabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/back_enabled_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/bg9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/chosen_v1.2.0/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/chosen_v1.2.0/chosen-sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/dummy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fontawesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fontawesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fontawesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/forward_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/forward_enabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/forward_enabled_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/lock-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/logo-single.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/mb-sample.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/mockup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/img/profile-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/weather-icons/font/weathericons-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/weather-icons/font/weathericons-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/weather-icons/font/weathericons-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/3024-day.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/3024-night.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/pages/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/pages/404.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/Chart.js/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/Global.asax.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/Global.asax" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/ProfilerWebApp.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ProfilerWebApp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/custom/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/App_Start/RouteConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/Web.Debug.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/Web.Release.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/App_Start/WebApiConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_badges.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/_bootstrap-compass.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/_bootstrap-mincer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/_bootstrap-sprockets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_breadcrumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_button-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_center-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_component-animations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_dropdowns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_glyphicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/_head.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_hide-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_input-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_modals.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_nav-vertical-align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_navs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_opacity.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_pager.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_popovers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_progress-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_progress-bars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_reset-filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_responsive-embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_responsive-utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_responsive-visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_scaffolding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/_scripts.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_tab-focus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_text-overflow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_thumbnails.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/mixins/_vendor-prefixes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/bootstrap/bootstrap/_wells.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-bootstrap-nav-tree/dist/abn_tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-bootstrap-nav-tree/dist/abn_tree_directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/access-login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/access-register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/ambiance-mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/ambiance.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-carousel/dist/angular-carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-carousel/dist/angular-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-file-upload/angular-file-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-i18n/angular-locale_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-i18n/angular-locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-i18n/angular-locale_en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-i18n/angular-locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-i18n/angular-locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-i18n/angular-locale_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-i18n/angular-locale_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-i18n/angular-locale_zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/animate-enabled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/animate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/animate.css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/animate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/animations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/animations.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/animo.js/animo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/editor/source/another.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/apl/apl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/app-h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/app-h.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/app-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/app.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/app.init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/app.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/area.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/asterisk/asterisk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/autocomplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/bar.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/barstacked.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/barstackedv2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/js/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/base16-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/base16-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/blackboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/bootstrap-filestyle/src/bootstrap-filestyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/bootstrap-reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/bootstrap-reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/bootstrap-tagsinput/dist/bootstrap-tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/bootstrap-wysiwyg/bootstrap-wysiwyg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/services/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/button-extra.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/button-extra.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/buttons.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/calendar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/calendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/calendar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/carousel.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/chart-flot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/chart-flot.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/chart-flot.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/chart-flot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/chart-js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/chart-js.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/chart-radial.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/chart-radial.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/partials/chat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/chat.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chosen-states.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/chosen_v1.2.0/chosen.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-chosen-localytics/chosen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/chosen_v1.2.0/chosen.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/circles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/circles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/cities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/classy-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/clear-storage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/clike/clike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/clojure/clojure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/cobalt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/cobol/cobol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/code-editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/code-editor.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/code-editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/code-editor.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/code-editor.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/codemirror-md.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/lib/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/lib/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/coffeescript/coffeescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/colorforth.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/colors.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/services/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/commonlisp/commonlisp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/css/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/custom/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/cypher/cypher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/d/d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/dart/dart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/dashboard.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/dashboard_v2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/dashboard_v2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/dashboard_v3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/dashboard_v3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/css/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/js/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/datatable-bootstrap/js/dataTables.bootstrapPagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/datatables-colvis/css/dataTables.colVis.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/datatables-colvis/js/dataTables.colVis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/datatable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/datatable.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/datatable.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/datatable.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/datepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/datepicker.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-panels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-toaster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/diff/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/django/django.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/dockerfile/dockerfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/docs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/docs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/documentation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/documentation.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/donut.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/dropdown-animations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/dropdown-animations.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/dropdown-extra.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/dropdown-extra.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/dtd/dtd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/dylan/dylan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/ebnf/ebnf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/ecl/ecl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/eclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-blind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-bounce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-drop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-explode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-fade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-puff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-pulsate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-shake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect-transfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/effect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/eiffel/eiffel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/elegant.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/i18n/en.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/erlang-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/erlang/erlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/i18n/es_AR.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fastclick/lib/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/filestyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/editor/filetree.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/flatdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/flatdoc/flatdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/flot-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fontawesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fontawesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/partials/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/footer.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/form-elements.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/form-elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/form-extended.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/form-extended.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/form-imagecrop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/form-imagecrop.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/form-imgcrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/form-imgcrop.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/form-imgcrop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/form-standard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/form-standard.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/form-tags.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/form-tags.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/form-uiselect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/form-uiselect.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/form-upload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/form-upload.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/form-validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/form-validation.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/form-validation.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/form-validation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/form-wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/form-wizard.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/form-wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/form-wizard.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/form-wizard.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/form-xeditable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/form-xeditable.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/form-xeditable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/forth/forth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/fortran/fortran.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fullcalendar/dist/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fullcalendar/dist/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/gas/gas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/fullcalendar/dist/gcal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/gfm/gfm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/gherkin/gherkin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/gmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/gmap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/gmap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/go/go.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/services/google-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/grid-masonry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/grid-masonry.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/grid.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/groovy/groovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/gulpfile-sass-compass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/half-float.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/half-float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/haml/haml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/haskell/haskell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/haxe/haxe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/html.sortable/dist/html.sortable.angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/html.sortable/dist/html.sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/htmlembedded/htmlembedded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/htmlmixed/htmlmixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/http/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/icons-font.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/icons-font.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/icons-weather.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/icons-weather.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/idl/idl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/editor/source/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/infinite-scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/infinite-scroll.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/infinite-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/interaction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/interaction.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/invoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/invoice.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/jade/jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/javascript/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/jinja2/jinja2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ika.jvectormap/jquery-jvectormap-1.2.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ika.jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ika.jvectormap/jquery-jvectormap-us-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ika.jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-classyloader/js/jquery.classyloader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/datatables/media/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/Flot/jquery.flot.categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/Flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/Flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/Flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/flot-spline/js/jquery.flot.spline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/Flot/jquery.flot.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/flot.tooltip/js/jquery.flot.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jQuery-gMap/jquery.gmap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/bootstrap-wysiwyg/external/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery.inputmask/dist/jquery.inputmask.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/nestable/jquery.nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/slimScroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/sparklines/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jqueryui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/javascript/json-ld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/julia/julia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/kotlin/kotlin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/layout-extra.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/layout-extra.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/css/less.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/css/less_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/lesser-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/line.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/livescript/livescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/load-css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/vendor/gmap/load-google-maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/loading-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/loading-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/localization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/localization.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/pages/lock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/pages/lock.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/pages/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/pages/login.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/lua/lua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/mailbox-compose.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/mailbox-compose.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/mailbox-inbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/mailbox-inbox.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/mailbox-view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/mailbox-view.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/mailbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/mailbox.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/mailbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/mailbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/mailbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/mails.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/maps-google.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/maps-google.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/maps-vector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/maps-vector.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/markdown/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/markdownarea.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/marked/lib/marked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/masked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/masonry-grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/masonry-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/mbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/mdn-like.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/media-queries.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/media-queries.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/meta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/midnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/mirc/mirc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/mllike/mllike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/modals-gmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/modals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/modelica/modelica.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/modernizr/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/moment/min/moment-with-locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/monokai.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/services/nav-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/nav-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/nav-tree.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/navbar-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/navtree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/neat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/neo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/nestable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/nestable.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/nestable.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/nestable.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-grid/plugins/ng-grid-csv-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/ng-grid-data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-grid/plugins/ng-grid-flexible-height.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-grid/plugins/ng-grid-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-grid/plugins/ng-grid-pdf-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-grid/plugins/ng-grid-reorderable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-grid/plugins/ng-grid-wysiwyg-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-grid/ng-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/ng-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-img-crop/compile/unminified/ng-img-crop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-img-crop/compile/unminified/ng-img-crop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-table-export/ng-table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-table/dist/ng-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ng-table/dist/ng-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ngWig/dist/ng-wig.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ngDialog/css/ngDialog-theme-default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ngDialog/css/ngDialog.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/ngDialog/js/ngDialog.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/ngdialog-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/ngdialog-template.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/ngdialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/ngdialog.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/ngdialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/ngdialog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/nginx/nginx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/ngtable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/ngwig.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/ngwig.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/night.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/notifications.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/notifications.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/notify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/notify.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/notify.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/now.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/ntriples/ntriples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/octave/octave.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/partials/offsidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/offsidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/offsidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/offsidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/addon/mode/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/packages.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/pages/page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/pages/page.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/panel-tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/panels.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/paraiso-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/paraiso-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/parsleyjs/dist/parsley.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/pascal/pascal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/pastel-on-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/pegjs/pegjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/perl/perl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/php/php.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/pie.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/pig/pig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/placeholder.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/placeholder.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/play-animations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/plugins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/plugins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/portlet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/portlets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/portlets.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/portlets.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/portlets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/profile.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/progress-extra.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/progress-extra.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/properties/properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/puppet/puppet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/python/python.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/q/q.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/r/r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/radial-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/radial-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/documentation/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/realtime.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/pages/recover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/pages/recover.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/pages/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/pages/register.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/services/route-helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/row-extra.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/row-extra.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/rpm/rpm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/rst/rst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/ruby/ruby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/rubyblue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/rust/rust.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/sass/sass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/clike/scala.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/scheme/scheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/screenfull/dist/screenfull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/editor/source/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/css/scss.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/css/scss_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/search.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-ui-select/dist/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-ui-select/dist/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/selectable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/selectmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/partials/settings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/settings.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/settings.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/shell/shell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/sidebar-menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/sidebar-menu.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/partials/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/sieve/sieve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/simple-line-icons/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/skycons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/skycons/skycons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/slim-scroll.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/slim-scroll.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/slim/slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/smalltalk/smalltalk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/smarty/smarty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/smartymixed/smartymixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/solarized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/solr/solr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/sortable.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/soy/soy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/sparklines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/sparql/sparql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/spinner.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/spinner.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/spinners.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/spinners.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/spline.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/splinev2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/chart/splinev3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/spreadsheet/spreadsheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/stex/stex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/editor/source/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/stylus/stylus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/table-checkall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/table-data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/table-datatable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/table-datatable.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/table-extended.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/table-extended.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/table-extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/table-extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/table-grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/table-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/table-ng-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/table-ng-grid.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/table-ng-grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/table-ng-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/table-ngtable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/table-ngtable.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/table-ngtable.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/table-ngtable.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/table-standard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/table-standard.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/table-xeditable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/table-xeditable.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/table-xeditable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/tags-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/tcl/tcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/template.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/css/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/gfm/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/haml/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/javascript/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/markdown/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/php/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/ruby/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/shell/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/slim/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/stex/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/textile/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/verilog/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/xml/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/xquery/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/textile/textile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/the-matrix.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/theme-a.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/themes/theme-a.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/themes/theme-a.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/theme-b.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/themes/theme-b.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/themes/theme-b.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/theme-c.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/themes/theme-c.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/themes/theme-c.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/theme-d.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/themes/theme-d.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/themes/theme-d.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/theme-e.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/themes/theme-e.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/themes/theme-e.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/theme-f.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/themes/theme-f.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/themes/theme-f.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/theme-g.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/themes/theme-g.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/themes/theme-g.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/css/theme-h.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/themes/theme-h.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/themes/theme-h.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/tiddlywiki/tiddlywiki.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/tiddlywiki/tiddlywiki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/tiki/tiki.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/tiki/tiki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/timeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/timeline.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/timeline.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/timeline.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angularjs-toaster/toaster.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angularjs-toaster/toaster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/todo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/todo.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/todo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/todo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/todo.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/toggle-state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/services/toggle-state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/toml/toml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/tomorrow-night-bright.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/tomorrow-night-eighties.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/partials/top-navbar-h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/top-navbar-h.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/partials/top-navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/partials/top-navbar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/top-navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/top-navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/tornado/tornado.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/treedata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/turtle/turtle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/twilight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/typeahead.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/typeahead.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/javascript/typescript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/typo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/typo.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/typo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/typo.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-ui-codemirror/ui-codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/ui-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/uiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/uiselect.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/uiselect.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart-controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table-controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/user-block.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/user-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/user-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/utils-definitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/services/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/utils.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/utils.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/validate-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/vb/vb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/vbscript/vbscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/directives/vector-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/services/vector-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/vector-map.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/vector-map.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/vector-maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/velocity/velocity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/vendor.base.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/vendor.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/verilog/verilog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/vibrant-ink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/weather-icons/css/weather-icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/weather-icons/font/weathericons-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/Views/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/bootstrap/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/whirl/dist/whirl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/jquery-ui/ui/widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/less/app/widget.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/sass/app/widget.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/app/views/widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/master/jade/views/widgets.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/server/xeditable-groups.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-xeditable/dist/css/xeditable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/angular-xeditable/dist/js/xeditable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/xml/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/xq-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/xq-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/xquery/xquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/yaml/yaml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/mode/z80/z80.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfilerWebApp/vendor/codemirror/theme/zenburn.css" />
+    </list>
+    <ignored path="ProfilerWebApp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ProfilerWebApp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="uniscores-chart.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uniscores-chart-controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart-controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="850">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uniscores-table-controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table-controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar-menu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/sidebar-menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="1853">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo-forms.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-forms.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uniscores-table.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.59417474" vertical-offset="0" max-vertical-offset="7361">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/views/partials/sidebar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.5769231" vertical-offset="169" max-vertical-offset="697">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.7586207" vertical-offset="24993" max-vertical-offset="111401">
+              <caret line="1480" column="0" selection-start-line="1480" selection-start-column="0" selection-end-line="1480" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1425684823218" expanded="true" signature="172126:172287" placeholder="..." />
+                <marker date="1425684823218" expanded="true" signature="172375:172440" placeholder="..." />
+                <marker date="1425684823218" expanded="true" signature="172557:172624" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2244">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/app.init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1054">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart.html.js" />
+        <option value="$PROJECT_DIR$/ProfilerWebApp/server/sidebar-menu.json" />
+        <option value="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart-controller.js" />
+        <option value="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart.html" />
+        <option value="$PROJECT_DIR$/ProfilerWebApp/app/js/app.js" />
+        <option value="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table-controller.js" />
+        <option value="$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProfilerWebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uniscores" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ProfilerWebApp/ProfilerWebApp/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f8062a-3f4a-447c-9979-5b98eec98859" name="Default" comment="" />
+      <created>1425649438974</created>
+      <option name="number" value="Default" />
+      <updated>1425649438974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart-controller.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table-controller.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart-controller.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table-controller.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/modules/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-133.06897" vertical-offset="272" max-vertical-offset="9044">
+          <caret line="243" column="0" selection-start-line="242" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/server/sidebar-menu.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/views/chart-js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49514562" vertical-offset="0" max-vertical-offset="850">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2874" max-vertical-offset="3451">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#410#1353#0" expanded="false" />
+            <element signature="e#1380#1728#0" expanded="false" />
+            <element signature="e#1805#2525#0" expanded="false" />
+            <element signature="e#2552#2791#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/views/partials/top-navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="255" max-vertical-offset="2567">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/views/partials/top-navbar-h.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2635">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/views/partials/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.5769231" vertical-offset="169" max-vertical-offset="697">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2244">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/app.init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-chart-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="850">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/sidebar-menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1853">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/master/js/modules/controllers/demo-forms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.7586207" vertical-offset="24993" max-vertical-offset="111401">
+          <caret line="1480" column="0" selection-start-line="1480" selection-start-column="0" selection-end-line="1480" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1425684823218" expanded="true" signature="172126:172287" placeholder="..." />
+            <marker date="1425684823218" expanded="true" signature="172375:172440" placeholder="..." />
+            <marker date="1425684823218" expanded="true" signature="172557:172624" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilerWebApp/app/custom/uniscores/uniscores-table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59417474" vertical-offset="0" max-vertical-offset="7361">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
